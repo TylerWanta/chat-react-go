@@ -1,2 +1,2 @@
 # chat-react-go
-Chat app written with React and Go
+Simple live chat app written with React and Go
